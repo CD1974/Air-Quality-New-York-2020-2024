@@ -36,7 +36,7 @@ Este repositorio documenta el análisis de series temporales de **PM2.5** y **AQ
 ---
 
 👤 Autor
-César — Análisis, visualización y diseño del modelo de datos.
+César Díaz — Análisis, visualización y diseño del modelo de datos.
 
 ---
 
