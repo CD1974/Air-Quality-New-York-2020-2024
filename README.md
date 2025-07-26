@@ -24,7 +24,7 @@ Este repositorio documenta el análisis de series temporales de **PM2.5** y **AQ
 
 A continuación, se muestra el modelo dimensional utilizado para el análisis:
 
-![Diagrama ER del Data Mart](output/er_diagram1.png)
+![Diagrama ER del Data Mart](output/er_diagram1.PNG)
 
 ---
 
