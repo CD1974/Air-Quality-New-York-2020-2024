@@ -35,6 +35,8 @@ Proyecciones 2025–2026: ¿Qué esperar si continúan las tendencias actuales?
 
 ---
 
+## 📁 Estructura del Repositorio
+
 📁 data/
     └── PM2.5_New_York_2020.csv
     └── PM2.5_New_York_2021.csv
