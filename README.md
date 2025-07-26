@@ -18,6 +18,16 @@ Este repositorio documenta el análisis de series temporales de **PM2.5** y **AQ
 - `README.md` → Descripción del proyecto
 - `requirements.txt` → Dependencias del entorno (matplotlib, seaborn, pandas...)
 
+---
+
+## 📐 Diagrama ER del Data Mart
+
+A continuación, se muestra el modelo dimensional utilizado para el análisis:
+
+![Diagrama ER del Data Mart](docs/images/er_diagram.png)
+
+---
+
 ## 📈 Visualizaciones incluidas
 
 - Boxplots mensuales para PM2.5
