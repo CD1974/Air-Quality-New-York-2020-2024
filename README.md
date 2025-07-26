@@ -9,49 +9,26 @@ Este repositorio documenta el análisis de series temporales de **PM2.5** y **AQ
 
 ---
 
-## 📊 Visualizaciones y Hallazgos Clave
+## 📁 Estructura del repositorio
 
-### 🌆 Evolución temporal de PM2.5 y AQI
+- `data/` → Datasets originales y procesados (`.csv`)
+- `notebooks/` → Análisis exploratorio en Jupyter Notebooks (`.ipynb`)
+- `output/` → Gráficos generados
+- `src/` → Scripts en Python reutilizables
+- `README.md` → Descripción del proyecto
+- `requirements.txt` → Dependencias del entorno (matplotlib, seaborn, pandas...)
 
-![Evolución PM2.5 vs AQI](ruta/a/grafico1.png)
+## 📈 Visualizaciones incluidas
 
-- **Picos invernales y veraniegos**: Se observan concentraciones elevadas en invierno (calefacción) y verano (ozono y eventos de humo).
-- **2023 como año crítico**: Incendios en Canadá provocaron niveles récord de PM2.5 en junio.
-- **Relación directa**: AQI responde proporcionalmente a los niveles de PM2.5, aunque hay días con discrepancias por otros contaminantes.
+- Boxplots mensuales para PM2.5
+- Series temporales con umbrales de calidad del aire
+- Gráficos de dispersión y detección de valores atípicos por estación
 
----
+## 🔗 Recursos útiles
 
-## 🧮 Modelo Relacional del Data Mart
-
-
----
-
-## **🔍 Análisis Potencial**
-Comparación interanual: ¿Cómo evolucionó la calidad del aire post-pandemia?
-
-Impacto de eventos extremos: Incendios, olas de calor, y tráfico urbano.
-
-Proyecciones 2025–2026: ¿Qué esperar si continúan las tendencias actuales?
-
----
-
-## 📁 Estructura del Repositorio
-
-📁 data/
-    └── PM2.5_New_York_2020.csv
-    └── PM2.5_New_York_2021.csv
-    └── PM2.5_New_York_2022.csv
-    └── PM2.5_New_York_2023.csv
-    └── PM2.5_New_York_2024.csv
-
-📁 scripts/
-    └── proyecto_pm2.5_new_york.ipynb
-
-📁 output/
-    └── gráficas generadas (.png)
-
-README.md
-LICENSE
+- [Datos de calidad del aire de la EPA](https://www.epa.gov/outdoor-air-quality-data)
+- [Guía de AQI](https://www.airnow.gov/aqi/aqi-basics/)
+- [Documentación de Seaborn](https://seaborn.pydata.org/)
 
 ---
 
