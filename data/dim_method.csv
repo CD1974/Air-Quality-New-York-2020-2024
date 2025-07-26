@@ -1,8 +1,0 @@
-"method_id";"method_code";"method_name";"sample_duration";"units_of_measure"
-1;"145";"R & P Model 2025 PM-2.5 Sequential Air Sampler w/VSCC";"";"ug/m3 LC"
-2;"236";"Teledyne T640 at 5.0 LPM";"";"ug/m3 LC"
-3;"736";"Teledyne T640 at 5.0 LPM (Corrected)";"";"ug/m3 LC"
-4;"702";"PM2.5 SCC w/Correction Factor";"";"ug/m3 LC"
-5;"182";"Thermo Scientific TEOM 1405-DF Dichotomous FDMS";"";"ug/m3 LC"
-6;"636";"Teledyne T640 at 5.0 LPM w/Network Data Alignment enabled";"";"ug/m3 LC"
-7;"701";"PM2.5 SCC w/No Correction Factor";"";"ug/m3 LC"
