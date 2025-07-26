@@ -28,6 +28,9 @@ Este repositorio documenta el análisis de series temporales de **PM2.5** y **AQ
 
 - [Datos de calidad del aire de la EPA](https://www.epa.gov/outdoor-air-quality-data)
 - [Guía de AQI](https://www.airnow.gov/aqi/aqi-basics/)
+- [Datos históricos de calidad del aire en NYC](https://data.cityofnewyork.us/Environmental/NYC-Air-Quality/ahf8-c8hn)
+- [Air Quality Monitoring - NYSDEC](https://www.dec.ny.gov/chemical/8406.html)
+- [PM2.5 y AQI en tiempo real - IQAir](https://www.iqair.com/us/usa/new-york/new-york-city)
 - [Documentación de Seaborn](https://seaborn.pydata.org/)
 
 ---
